@@ -1,0 +1,42 @@
+.inputForm{
+    width: 50%;
+    border: 2px solid;
+    border-radius: 5px;
+    margin-left: 320px;
+    margin-top: 50px;
+    border-color: white;
+}
+
+.form-control{
+    width: 50%;
+    background-color: rgb(212, 227, 233);
+    outline-color: white;
+    outline-style: solid;
+    outline-width: 2px;
+}
+
+.form-control:active{
+    box-shadow:4px 4px 8px 1px rgba(255,255,255,1);
+}
+
+.clear{
+    margin-left: 595px;
+    margin-top: 40px;
+    font-weight: bold;
+}
+
+.showseries{
+    border: 2px solid;
+    border-radius: 5px;
+    border-color: white;
+    width: 50%;
+    margin-left: 320px;
+    color: white;
+}
+
+body{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzmWt9qKoRfdCIJiiPkBSzFVoDuqKYPoAyGg&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
